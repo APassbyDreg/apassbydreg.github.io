@@ -1,9 +1,9 @@
 ## 关于我
 
-![profile-pic](../content/images/[202103]profile-pic.png)
+<img src="../content/images/[202103]profile-pic.png" width="400px">
 
 21 世纪的第一批 00 后，本职 Coding ，偶尔做做视频。
 
-> [个人简历 - 深度学习方向](./content/files/resumes/resume-DeepLearning.pdf)
+> [个人简历 - 深度学习方向](https://raw.githubusercontent.com/APassbyDreg/apassbydreg.github.io/master/content/files/resumes/[202103]resume-DeepLearning.pdf)
 > 
-> [个人简历 - 游戏开发方向](./content/files/resumes/resume-Games.pdf)
+> [个人简历 - 游戏开发方向](https://raw.githubusercontent.com/APassbyDreg/apassbydreg.github.io/master/content/files/resumes/[202103]resume-Game.pdf)

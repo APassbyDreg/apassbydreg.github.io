@@ -1,10 +1,8 @@
 # 转发树可视化实现
 
-```
-pub date: 2021-04-09
-modified: 2021-04-09
-language: CN
-```
+> pub date: 2021-04-09
+> modified: 2021-04-09
+> language: CN
 
 ![image-20210409130022723](RepoTreeVis_imgs/image-20210409130022723.png)
 

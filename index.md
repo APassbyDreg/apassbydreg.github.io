@@ -1,34 +1,27 @@
-Welcome to my Github Pages.
+## About Me
 
----
-
-<center><img src="./content/images/profile-pic.png" width="300px"></center>
-
----
-
-# About Me
+<img src="./content/images/profile-pic.png" width="300px">
 
 [[ 关于我 ]](./pages/aboutme-cn) [[ About Me ]](./pages/aboutme-en)
 
-# Contact Me
+## Contact Me
 
 **Tencent QQ**: 1966690715
 
 **E-mail**: me@apassbydreg.work
 
-# Other Sites
+## Other Sites
 
 [[ GitHub ]](https://github.com/APassbyDreg) [[ BiliBili ]](https://space.bilibili.com/8020246)
 
-# Recent Articles
+## Recent Articles
 
-## 转发树可视化实现 | RepoTreeVis
+### 转发树可视化实现 | RepoTreeVis
 
-```
-pub date: 2021-04-09
-modified: 2021-04-09
-language: CN
-```
+
+> pub date: 2021-04-09
+> modified: 2021-04-09
+> language: CN
 
 ![image-20210409130022723](./pages/articles/202104/RepoTreeVis_imgs/image-20210409130022723.png)
 

@@ -24,12 +24,12 @@ Welcome to my Github Pages.
 
 ## 转发树可视化实现 | RepoTreeVis
 
-![image-20210409130022723](./pages/articles/202104/RepoTreeVis_imgs/image-20210409130022723.png)
-
 ```
 pub date: 2021-04-09
 modified: 2021-04-09
 language: CN
 ```
 
-[[ read full ]](./pages/articles/202104/RepoTreeVis)
+![image-20210409130022723](./pages/articles/202104/RepoTreeVis_imgs/image-20210409130022723.png)
+
+[[ read full article ]](./pages/articles/202104/RepoTreeVis)

@@ -1,6 +1,6 @@
 ## 关于我
 
-<img src="../content/images/[202103]profile-pic.png" width="400px">
+<img src="../content/images/profile-pic.png" width="400px">
 
 21 世纪的第一批 00 后，本职 Coding ，偶尔做做视频。
 
